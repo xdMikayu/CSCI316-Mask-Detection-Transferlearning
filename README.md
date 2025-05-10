@@ -1,6 +1,6 @@
 # Face Mask Detection with Transfer Learning (CSCI316 Project)
 
-This project implements a deep learning pipeline for classifying face mask usage using **Transfer Learning with InceptionV3**. Built for NYU’s CSCI316 course, it showcases model fine-tuning, image preprocessing, augmentation, and deployment.
+This project implements a deep learning pipeline for classifying face mask usage using **Transfer Learning with InceptionV3**. Built for UOWD’s CSCI316 course, it showcases model fine-tuning, image preprocessing, augmentation, and deployment.
 
 ## 🔍 Project Overview
 
@@ -66,12 +66,6 @@ Due to size, the full dataset is not included. You can download it from:
 - Rabail Lal  
 - Mohammad Shadi
 
-## 📄 License
-
-MIT License
-
-
----
 
 ## 🔗 External Resources
 
