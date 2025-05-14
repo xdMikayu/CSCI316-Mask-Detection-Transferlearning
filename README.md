@@ -64,7 +64,7 @@ Due to size, the full dataset is not included. You can download it from:
 - Eman Yahya  
 - Saad Musaddiq  
 - Rabail Lal  
-- Mohammad Shadi
+- Mohammad Qudaih
 
 
 ## 🔗 External Resources
